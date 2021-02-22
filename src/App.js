@@ -91,7 +91,7 @@ function App() {
         Animated.timing(creditCardY, {
             toValue: 0,
             duration: 250,
-            easing: Easing.elastic(),
+            easing: Easing.elastic(2),
             useNativeDriver: true,
         }).start(
 
