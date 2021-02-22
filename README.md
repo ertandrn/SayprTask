@@ -3,7 +3,7 @@
 ## Uygulamayı Çalıştırma
 
 ## 1. Adım:
-Uygulmayı çalıştırablmeniz için Android Studio'da emulatore, Xcode'da ise simulatore ihtiyacınız olacak. Sanal cihazın çalıştığından emin olun.
+Uygulamayı çalıştırabilmeniz için Android Studio'da emulatore, Xcode'da ise simulatore ihtiyacınız olacak. Sanal cihazın çalıştığından emin olun.
 
 ## 2. Adım:
 Proje klasörü içinde terminali açın ve aşağıdaki komutu çalıştırın. Komut Metro Bundler'ı başlatır.
