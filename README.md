@@ -1,6 +1,6 @@
 # SayprTask
 
-## Uygulamayı Çalıştırma
+# Uygulamayı Çalıştırma
 
 ## 1. Adım:
 Uygulamayı çalıştırabilmeniz için Android Studio'da emulatore, Xcode'da ise simulatore ihtiyacınız olacak. Sanal cihazın çalıştığından emin olun.
@@ -24,3 +24,6 @@ Bir süre sonra uygulamanın çalıştığını görebilirsiniz.
 ## Alternatif
 - Uygulamayı doğrudan Xcode içinden de çalıştırabilirsiniz. SayprTask/ios/SayprTask.xcworkspace'i açın ve simulator'ü seçtikten sonra uygulamayı başlatabilirsiniz.
 - Eğer uygulamayı gerçek bir cihazda çalıştırmak istiyorsanız [buradaki dokümanı](https://reactnative.dev/docs/running-on-device) inceleyebilirsiniz.
+
+# Ekran Görüntüsü
+Uygulamanın kaydedilmiş bir ekran görüntüsünü [YouTube](https://youtu.be/rm_3ou1BwDI)'dan izleyebilirsiniz.
