@@ -78,13 +78,13 @@ function App() {
 
         Animated.timing(headerLeftX, {
             toValue: 0,
-            duration: 500,
+            duration: 300,
             useNativeDriver: true,
         }).start();
 
         Animated.timing(headerRightX, {
             toValue: 0,
-            duration: 500,
+            duration: 300,
             useNativeDriver: true,
         }).start();
 
