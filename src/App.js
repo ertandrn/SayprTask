@@ -78,19 +78,19 @@ function App() {
 
         Animated.timing(headerLeftX, {
             toValue: 0,
-            duration: 300,
+            duration: 400,
             useNativeDriver: true,
         }).start();
 
         Animated.timing(headerRightX, {
             toValue: 0,
-            duration: 300,
+            duration: 400,
             useNativeDriver: true,
         }).start();
 
         Animated.timing(creditCardY, {
             toValue: 0,
-            duration: 500,
+            duration: 400,
             easing: Easing.elastic(2),
             useNativeDriver: true,
         }).start(
