@@ -26,4 +26,4 @@ Bir süre sonra uygulamanın çalıştığını görebilirsiniz.
 - Eğer uygulamayı gerçek bir cihazda çalıştırmak istiyorsanız [buradaki dokümanı](https://reactnative.dev/docs/running-on-device) inceleyebilirsiniz.
 
 # Ekran Görüntüsü
-Uygulamanın kaydedilmiş bir ekran görüntüsünü [YouTube](https://youtu.be/rm_3ou1BwDI)'dan izleyebilirsiniz.
+Uygulamanın kaydedilmiş bir ekran görüntüsünü [YouTube](https://youtu.be/Oe1eYb0bXb8)'dan izleyebilirsiniz.
