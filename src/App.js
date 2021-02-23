@@ -131,7 +131,7 @@ function App() {
 
                         <Header profilePhoto={user.profilePhoto} name={user.name} surname={user.surname} email={user.email} opacity={opacity} headerLeftX={headerLeftX} headerRightX={headerRightX} />
 
-                        <Animated.View style={{ transform: [{ translateY: creditCardY }], marginTop: 16 }}>
+                        <Animated.View style={{ zIndex: 1, transform: [{ translateY: creditCardY }], marginTop: 16 }}>
                             <TouchableOpacity activeOpacity={1} onPress={() => { openCreditCardsPage(); }}>
                                 <CreditCard totalLimit={null} totalSpent={null} type={creditCard.type} no={creditCard.no} color={creditCard.color} company={creditCard.company} />
                             </TouchableOpacity>
